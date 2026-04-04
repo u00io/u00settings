@@ -1,0 +1,32 @@
+{
+  "http_port": 80,
+  "https_port": 443,
+  "segments": [
+    {
+      "suffix": "0",
+      "addresses": [
+        {
+          "address": "be11.gazer.cloud",
+          "https_port": 443,
+          "gazerlink_port": 3210,
+          "gazerlink_aes_key": "00112233445566778899aabbccddeeff00112233445566778899aabbccddeeff"
+        }
+      ]
+    },
+    {
+      "suffix": "1",
+      "addresses": [
+        {
+          "address": "be21.gazer.cloud",
+          "https_port": 443,
+          "gazerlink_port": 3210,
+          "gazerlink_aes_key": "00112233445566778899aabbccddeeff00112233445566778899aabbccddeeff"
+        }
+      ]
+    }
+  ],
+  "frontends": [
+    "https://fe1.gazer.cloud",
+    "https://fe2.gazer.cloud"
+  ]
+}
