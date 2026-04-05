@@ -26,7 +26,7 @@
     }
   ],
   "frontends": [
-    "https://fe1.gazer.cloud",
-    "https://fe2.gazer.cloud"
+    "fe1.gazer.cloud",
+    "fe2.gazer.cloud"
   ]
 }
