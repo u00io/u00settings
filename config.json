@@ -1,6 +1,16 @@
 {
   "http_port": 80,
   "https_port": 443,
+  "admins": [
+    {
+      "public_key": "123445678",
+      "role": "admin"
+    },
+    {
+      "public_key": "123123445678",
+      "role": "readonly"
+    }
+  ],
   "segments": [
     {
       "suffix": "0",
@@ -8,8 +18,7 @@
         {
           "address": "be11.gazer.cloud",
           "https_port": 443,
-          "gazerlink_port": 3210,
-          "gazerlink_aes_key": "00112233445566778899aabbccddeeff00112233445566778899aabbccddeeff"
+          "uapi_port": 3210
         }
       ]
     },
@@ -19,14 +28,35 @@
         {
           "address": "be21.gazer.cloud",
           "https_port": 443,
-          "gazerlink_port": 3210,
-          "gazerlink_aes_key": "00112233445566778899aabbccddeeff00112233445566778899aabbccddeeff"
+          "uapi_port": 3210
         }
       ]
     }
   ],
-  "frontends": [
-    "fe1.gazer.cloud",
-    "fe2.gazer.cloud"
+  "servers": [
+    {
+      "address": "be11.gazer.cloud",
+      "kind": "backend"
+    },
+    {
+      "address": "be21.gazer.cloud",
+      "kind": "backend"
+    },
+    {
+      "address": "be12.gazer.cloud",
+      "kind": "backend"
+    },
+    {
+      "address": "be22.gazer.cloud",
+      "kind": "backend"
+    },
+    {
+      "address": "fe1.gazer.cloud",
+      "kind": "frontend"
+    },
+    {
+      "address": "fe2.gazer.cloud",
+      "kind": "frontend"
+    }
   ]
 }
