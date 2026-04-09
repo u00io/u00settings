@@ -3,7 +3,7 @@
   "https_port": 443,
   "admins": [
     {
-      "public_key": "123445678",
+      "public_key": "8c656983a72e625b7be3b744821277f08f5e9d4314e9354b75d9f2a8c187efc4",
       "role": "admin"
     },
     {
@@ -36,27 +36,33 @@
   "servers": [
     {
       "address": "be11.gazer.cloud",
-      "kind": "backend"
+      "kind": "backend",
+      "public_key": "14f9c5dd7aa1bc63a2eb14dc041bcaf1fe6f93e899ed37afef6a556a6293b39f"
     },
     {
       "address": "be21.gazer.cloud",
-      "kind": "backend"
+      "kind": "backend",
+      "public_key": "4ce982aeea4bf77f1236552ad0cc7041f490e9c1ac84f5a7dc7626f98481e878"
     },
     {
       "address": "be12.gazer.cloud",
-      "kind": "backend"
+      "kind": "backend",
+      "public_key": "6346b397d9699568edee4d0d05ab8bc5cbe270ce6330f2d15f4719c84215732b"
     },
     {
       "address": "be22.gazer.cloud",
-      "kind": "backend"
+      "kind": "backend",
+      "public_key": "f3e0be159e48b6fc8aaca8c639c9d014f7ae0f0561bd517486dedde343302401"
     },
     {
       "address": "fe1.gazer.cloud",
-      "kind": "frontend"
+      "kind": "frontend",
+      "public_key": "4cb5c8366e057a2f7820022dc734170247f4a959765d972bb3b81064527d973a"
     },
     {
       "address": "fe2.gazer.cloud",
-      "kind": "frontend"
+      "kind": "frontend",
+      "public_key": "8bb0d08e7fb367440c3469c84d6ee19cf078974a6bb1ed640107140b40bec9f2"
     }
   ]
 }
