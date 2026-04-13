@@ -286,7 +286,7 @@
     },
     {
       "address": "test.u00.io",
-      "kind": "frontend",
+      "kind": "frontend_test",
       "public_key": "38b8ba653d1928fadd7a6f50ca1bb0ce93a0addcc089382af74de7490a183083"
     }
   ]
