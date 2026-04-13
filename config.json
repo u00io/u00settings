@@ -283,6 +283,11 @@
       "address": "fe2.gazer.cloud",
       "kind": "frontend",
       "public_key": "8bb0d08e7fb367440c3469c84d6ee19cf078974a6bb1ed640107140b40bec9f2"
+    },
+    {
+      "address": "test.u00.io",
+      "kind": "frontend",
+      "public_key": "38b8ba653d1928fadd7a6f50ca1bb0ce93a0addcc089382af74de7490a183083"
     }
   ]
 }
