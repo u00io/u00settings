@@ -13,20 +13,240 @@
   ],
   "segments": [
     {
-      "suffix": "0",
+      "index": 0,
       "addresses": [
         {
           "address": "be11.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        },
+        {
+          "address": "be12.gazer.cloud",
           "https_port": 443,
           "uapi_port": 3210
         }
       ]
     },
     {
-      "suffix": "1",
+      "index": 1,
+      "addresses": [
+        {
+          "address": "be11.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        },
+        {
+          "address": "be12.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "addresses": [
+        {
+          "address": "be11.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        },
+        {
+          "address": "be12.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "addresses": [
+        {
+          "address": "be11.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        },
+        {
+          "address": "be12.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "addresses": [
+        {
+          "address": "be11.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        },
+        {
+          "address": "be12.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "addresses": [
+        {
+          "address": "be11.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        },
+        {
+          "address": "be12.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "addresses": [
+        {
+          "address": "be11.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        },
+        {
+          "address": "be12.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "addresses": [
+        {
+          "address": "be11.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        },
+        {
+          "address": "be12.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        }
+      ]
+    },
+    {
+      "index": 8,
       "addresses": [
         {
           "address": "be21.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        },
+        {
+          "address": "be22.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "addresses": [
+        {
+          "address": "be21.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        },
+        {
+          "address": "be22.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "addresses": [
+        {
+          "address": "be21.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        },
+        {
+          "address": "be22.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "addresses": [
+        {
+          "address": "be21.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        },
+        {
+          "address": "be22.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "addresses": [
+        {
+          "address": "be21.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        },
+        {
+          "address": "be22.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "addresses": [
+        {
+          "address": "be21.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        },
+        {
+          "address": "be22.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "addresses": [
+        {
+          "address": "be21.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        },
+        {
+          "address": "be22.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "addresses": [
+        {
+          "address": "be21.gazer.cloud",
+          "https_port": 443,
+          "uapi_port": 3210
+        },
+        {
+          "address": "be22.gazer.cloud",
           "https_port": 443,
           "uapi_port": 3210
         }
